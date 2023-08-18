@@ -1,0 +1,22 @@
+{
+  "name": "elmkit",
+  "version": "0.0.0",
+  "description": "tools for elm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elmkit/elmkit.git"
+  },
+  "author": "Seth Lowie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elmkit/elmkit/issues"
+  },
+  "homepage": "https://github.com/elmkit/elmkit#readme",
+  "devDependencies": {
+    "elm-land": "^0.19.2"
+  }
+}
